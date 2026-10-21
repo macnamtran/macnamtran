@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/header.svg">
-    <img src="assets/header.gif" alt="Nam Tran — Hardware and embedded systems. Nanotechnology Engineering, University of Waterloo. Animated pulses travel along circuit traces." width="100%">
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/header-ocean-static.png">
+    <img src="assets/header-ocean.gif" alt="Nam Tran — Hardware and embedded systems. Nanotechnology Engineering, University of Waterloo. Animated underwater flowers, jellyfish and bubbles." width="100%">
   </picture>
 </p>
 
