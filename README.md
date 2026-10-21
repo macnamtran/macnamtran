@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Nam Tran — Hardware and embedded systems. Nanotechnology Engineering, University of Waterloo." width="100%">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/header.svg">
+    <img src="assets/header.gif" alt="Nam Tran — Hardware and embedded systems. Nanotechnology Engineering, University of Waterloo. Animated pulses travel along circuit traces." width="100%">
+  </picture>
 </p>
 
 I’m Nam, a Nanotechnology Engineering student at the University of Waterloo. I’m interested in the electronics behind robots, vehicles and sensing systems—from the schematic and PCB to the firmware and tests that help explain how the hardware behaves.
