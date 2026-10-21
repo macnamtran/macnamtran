@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Nam Tran — Hardware and embedded systems</title>
+  <desc id="desc">University of Waterloo Nanotechnology Engineering. Navy banner with teal circuit-inspired linework.</desc>
+  <rect width="1200" height="320" rx="18" fill="#101e2b"/>
+  <path d="M0 319H1200" stroke="#28404f" stroke-width="2"/>
+  <g fill="none" stroke="#28404f" stroke-width="2">
+    <path d="M805 0V62L855 112H970L1010 152H1200"/>
+    <path d="M905 0V44L952 91H1055L1115 31H1200"/>
+    <path d="M1200 222H1083L1032 273H905L858 320"/>
+    <path d="M1200 252H1100L1058 294H967L942 320"/>
+    <path d="M1112 0V57L1078 91"/>
+  </g>
+  <g fill="none" stroke="#55cbb0" stroke-width="3">
+    <path d="M1200 185H1074L1037 148H918L884 182H816"/>
+    <circle cx="809" cy="182" r="7"/>
+    <circle cx="918" cy="148" r="5" fill="#101e2b"/>
+    <path d="M1040 320V264L1006 230H958"/>
+    <circle cx="951" cy="230" r="7"/>
+  </g>
+  <rect x="54" y="48" width="34" height="4" rx="2" fill="#55cbb0"/>
+  <text x="54" y="127" fill="#f2f5f4" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="700" letter-spacing="-2">Nam Tran</text>
+  <text x="56" y="178" fill="#83ddc7" font-family="Arial, Helvetica, sans-serif" font-size="27">Hardware &amp; embedded systems</text>
+  <text x="56" y="228" fill="#b4c4cf" font-family="Arial, Helvetica, sans-serif" font-size="20">Nanotechnology Engineering · University of Waterloo</text>
+  <text x="56" y="280" fill="#849ba9" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="2">CIRCUIT DESIGN / PCB LAYOUT / HARDWARE TEST</text>
+</svg>
