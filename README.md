@@ -5,9 +5,7 @@
   </picture>
 </p>
 
-I’m Nam, a Nanotechnology Engineering student at the University of Waterloo. I’m interested in the electronics behind robots, vehicles and sensing systems—from the schematic and PCB to the firmware and tests that help explain how the hardware behaves.
-
-My experience spans detector test automation, camera characterization and transistor-level circuit analysis. Here, I share the hardware I’m designing, what I’ve learned and the work still ahead.
+Trying to get better at hardware designing :DD
 
 <p>
   <a href="#selected-projects">Selected projects</a> &nbsp; / &nbsp;
