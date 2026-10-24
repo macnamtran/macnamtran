@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="206" height="44" viewBox="0 0 206 44" role="img" aria-label="Industry experience">
+<title>Industry experience</title>
+<rect x="1" y="1" width="204" height="42" rx="10" fill="#102c42" stroke="#63cfc6" stroke-width="1.5"/>
+<path d="M12 5H194" stroke="#b2efeb" stroke-opacity=".13"/>
+<circle cx="17" cy="22" r="3" fill="#77e0d1"/>
+<text x="29" y="27" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#ebfafc">Industry experience</text>
+<path d="M182 20l4 4 4-4" fill="none" stroke="#77e0d1" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

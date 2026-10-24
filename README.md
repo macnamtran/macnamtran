@@ -8,9 +8,9 @@
 Trying to get better at hardware designing :DD
 
 <p>
-  <a href="#selected-projects">Selected projects</a> &nbsp; / &nbsp;
-  <a href="#industry-experience">Industry experience</a> &nbsp; / &nbsp;
-  <a href="#tools-i-work-with">Tools</a>
+  <a href="#selected-projects"><img src="assets/nav-projects.svg" alt="Selected projects" width="182" height="44"></a>
+  <a href="#industry-experience"><img src="assets/nav-experience.svg" alt="Industry experience" width="206" height="44"></a>
+  <a href="#tools-i-work-with"><img src="assets/nav-tools.svg" alt="Tools" width="108" height="44"></a>
 </p>
 
 ## Selected projects
