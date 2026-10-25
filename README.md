@@ -21,16 +21,16 @@ Trying to get better at hardware designing :DD
 <tr>
 <td width="45%" valign="top">
 <a href="https://github.com/macnamtran/ProtectionGateDriver">
-<img src="https://raw.githubusercontent.com/macnamtran/ProtectionGateDriver/main/images/layout-iteration-2-3d.png" alt="CAD rendering of the second 48 V rover protection board layout; not fabricated" width="420">
+<img src="https://raw.githubusercontent.com/macnamtran/ProtectionGateDriver/main/images/layout-iteration-3-3d.png" alt="CAD rendering of the third 48 V rover protection board layout with mounting holes and input capacitor; not fabricated" width="420">
 </a>
-<sub>Iteration 2 · CAD preview</sub>
+<sub>Iteration 3 · CAD preview</sub>
 </td>
 <td width="55%" valign="top">
 <p><strong>Switching and protection for one rover wheel module.</strong></p>
 <p>I’m developing a low-side NMOS power-switch board with a 3.3 V STM32 enable interface, external 12 V gate-drive supply, fuse, bus TVS and gate-source clamp.</p>
 <p>The work includes schematic capture, a project-local MOSFET footprint and a four-layer layout with attention to the gate-drive loop, power-current paths and ground connections.</p>
 <p><sub>KiCad · MOSFET gate drive · Power distribution · PCB layout</sub></p>
-<p><strong>Status:</strong> Second layout iteration; review and bench validation pending. Not released for fabrication.</p>
+<p><strong>Status:</strong> Third layout iteration; review and bench validation pending. Not released for fabrication.</p>
 <a href="https://github.com/macnamtran/ProtectionGateDriver">Explore design files →</a>
 </td>
 </tr>
